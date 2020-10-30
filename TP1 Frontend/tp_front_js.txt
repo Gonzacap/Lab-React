@@ -1,0 +1,31 @@
+Realizar 3 componentes que cumplan con la siguiente funcionalidad
+
+1) un input de tipo texto que cuando se vaya escribiendo el texto se reemplace por | ( pipes), pero que el valor se pueda mostrar inmediatamente debajo
+
+2) un input de tipo texto que no permita mas de 10 caracteres ( intentar no usar la propiedad size) sino que generar una propiedad llamada longitud-máxima que empiece con el valor 10 poder defecto pero que se pueda cambiar la longitud
+
+3) un input de tipo texto que al momento de escribir un numero escriba el texto correspondiente uno debajo del otro 
+ejemplo
+
+123..
+uno
+dos
+tres
+...
+
+111
+uno
+uno
+uno
+...
+825
+ocho
+dos
+cinco
+...
+
+
+Trabajos que se entreguen fuera de fecha y hora no serán tenidos en cuenta  
+Fecha de entrega Lunes 26 de Octubre hasta las 16 pm 
+
+Cada input tiene que ser un javascript diferente con su propio tag ejemplo <neoris-password> <neoris-ALGO> etc 
